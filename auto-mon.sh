@@ -216,3 +216,5 @@ echo -e "${COLOR_INFO}  Target:    ${COLOR_ACCENT}$TARGET_IFACE${RESET}"
 echo -e "${COLOR_INFO}  Mode:      ${COLOR_SUCCESS}$FINAL_MODE${RESET}"
 echo -e "${COLOR_INFO}  Injection: $INJECTION_STATUS${RESET}"
 echo -e "${COLOR_MUTED}  -------------------------------------------------${RESET}"
+
+# Fin del script v2.0
