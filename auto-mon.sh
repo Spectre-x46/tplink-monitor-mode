@@ -4,6 +4,12 @@
 #      SPECTRE MONITOR MODE | PRO EDITION
 #  v2.0 | High-Performance Wireless Auditing Tool
 # ==============================================================================
+# ATRIBUCIÓN DEL CÓDIGO:
+# El núcleo funcional y diseño de la V2.0 fue generado inicialmente por una 
+# IA (Antigravity), y posteriormente modificado, pulido y adaptado por 
+# Spectre_x46 para incluir el menú de selección, el spinner y el test de inyección.
+# Autor original de la idea y refinamiento: Spectre_x46.
+# ------------------------------------------------------------------------------
 
 # --- [ PALETA SPECTRE PRO ] ---
 COLOR_MAIN="\e[38;5;51m"      # Cyan Neon (Tron UI)
