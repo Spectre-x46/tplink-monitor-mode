@@ -1,6 +1,6 @@
 # 📡 Spectre Monitor Mode Script | v2.0 Pro Edition
 
-**Herramienta de auditoría inalámbrica automatizada para Linux (Parrot OS / Kali Linux).**
+**Herramienta de auditoría inalámbrica automatizada para Linux**
 
 Este script lleva a la activación del **Modo Monitor** de manera simple y efectiva. Diseñado para chipsets Wi-Fi USB (TP-Link/Realtek), gestiona la transición de modo *Managed* a *Monitor* de forma limpia, robusta y con verificación de inyección.
 
